@@ -41,13 +41,15 @@ Can help with your open source project, connect you with great tech communities 
 
 Let's talk! 
 
-⭐️ From [Baiana](https://github.com/ghadaFlutterDeveloper)
+⭐️ From [Ghada Ragab](https://github.com/ghadaFlutterDeveloper)
 Let's talk! 
 
-⭐️ From Ghada Ragab
+
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Ghada%20Ragab-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ghada-ragab-1a253b24b) 
+
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Ghada%20Ragab-blue?style=flat&logo=facebook)](https://www.facebook.com/share/uF95jMaHaJQfUxKw/)
+
 [![GitHub Badge](https://img.shields.io/badge/GitHub-Ghada%20Ragab-black?style=flat&logo=github)]([https://github.com/ghadaragab](https://github.com/ghadaFlutterDeveloper)) 
 
 
