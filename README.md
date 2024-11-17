@@ -1,7 +1,6 @@
-![Hey there, I'm Ghada Ragab. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
+![Hey there, I'm Ghada Ragab. I'm a Flutter Developer, passionate about mobile development. Check out my work](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
-[![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/sudo_overflow) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/CyrisXD?logo=GitHub&style=for-the-badge)](https://github.com/CyrisXD) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/CyrisXD?logo=github&style=for-the-badge)](https://github.com/CyrisXD) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/CyrisXD?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/CyrisXD)
-
+[![Twitter Followers](https://img.shields.io/twitter/follow/your_twitter_handle?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/your_twitter_handle) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/GhadaRagab?logo=GitHub&style=for-the-badge)](https://github.com/GhadaRagab) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/GhadaRagab?logo=github&style=for-the-badge)](https://github.com/GhadaRagab) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/GhadaRagab?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/GhadaRagab)
 
 Welcome to my Github! I make some fun codes to learn new things and help other people learn it too (especially from my mistakes :sweat_smile:).
 
