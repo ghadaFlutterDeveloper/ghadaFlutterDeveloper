@@ -1,4 +1,4 @@
-![Hey there, I'm Ghada Ragab. I'm a Flutter Developer, passionate about mobile development. Check out my work](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+![Hey there, I'm Ghada Ragab. I'm a Flutter Developer, passionate about mobile development. Check out my work](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3JqZHYwY2VpdW5tMnB2eTg0MHN4NXRzMTN1Njl4c3V5aWVqdDFjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IukQzorbDfxacf49tr/giphy.gif)
 
 [![Twitter Followers](https://img.shields.io/twitter/follow/your_twitter_handle?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/your_twitter_handle) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/GhadaRagab?logo=GitHub&style=for-the-badge)](https://github.com/GhadaRagab) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/GhadaRagab?logo=github&style=for-the-badge)](https://github.com/GhadaRagab) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/GhadaRagab?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/GhadaRagab)
 
