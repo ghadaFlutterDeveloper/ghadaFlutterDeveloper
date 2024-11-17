@@ -29,17 +29,25 @@ Welcome to my Github! I make some fun codes to learn new things and help other p
  - Using ![Flutter](https://img.shields.io/badge/-flutter-02569B?&logo=flutter) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github) ![](https://img.shields.io/badge/-Git-black?style=plastic&logo=git) ![enter image description here](https://img.shields.io/badge/-Android-3e9e06?&logo=android) ![enter image description here](https://img.shields.io/badge/-gitflow-05a698?&logo=git);
  
  ### :books: Learning:
- - ![enter image description here](https://img.shields.io/badge/-Flutter-5dcede?&logo=flutter) ![enter image description here](https://img.shields.io/badge/-Dart-0d91a3?&logo=dart) ![enter image description here](https://img.shields.io/badge/-Swift-964b09?&logo=swift), android animations, game development, CI/CD, UI testing;
- - ![enter image description here](https://img.shields.io/badge/-Python-780723?&logo=python) with the Pyladies Study Group :heart:
- - how to Sew, crochet, embroider and knitt; 
+ - ![enter image description here](https://img.shields.io/badge/-Flutter-5dcede?&logo=flutter) ![enter image description here](https://img.shields.io/badge/-Dart-0d91a3?&logo=dart) , android animations, UI testing;
  - Something new everyday! 
 
 ### :mortar_board: Graduating:
-Science and Technology interdisciplinary bachelor, in UFBA (Federal University of Bahia) with the intend to pursue a Computer Science degree after!
+"I'm currently a 4th-year student at the Faculty of Computers and Artificial Intelligence, Beni Suef University."
+
 
 ## :speech_balloon: And I also...
 Can help with your open source project, connect you with great tech communities and recommend great materials about diversity and inclusion! 🎉
 
 Let's talk! 
 
-⭐️ From [Baiana](https://github.com/baiana)
+⭐️ From [Baiana](https://github.com/ghadaFlutterDeveloper)
+Let's talk! 
+
+⭐️ From Ghada Ragab
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Ghada%20Ragab-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ghada-ragab-1a253b24b) 
+[![Facebook Badge](https://img.shields.io/badge/Facebook-Ghada%20Ragab-blue?style=flat&logo=facebook)](https://www.facebook.com/share/uF95jMaHaJQfUxKw/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-Ghada%20Ragab-black?style=flat&logo=github)]([https://github.com/ghadaragab](https://github.com/ghadaFlutterDeveloper)) 
+
+
