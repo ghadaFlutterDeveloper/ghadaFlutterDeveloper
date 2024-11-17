@@ -1,7 +1,19 @@
-![](https://user-images.githubusercontent.com/18560467/90992251-de862b00-e584-11ea-96df-3c2fad82807b.gif)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header)
 
+<h3 align="center">
+Hi There! I'm Ghada Ragab
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+<h3 align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Edu+NSW+ACT+Foundation&weight=500&size=30&pause=1000&color=F70404&width=435&lines=FullStack+.Net+Development  )](https://git.io/typing-svg)
 
-![githubbadge](https://img.shields.io/github/followers/baiana?style=social) <a href="https://www.linkedin.com/in/ana-souza-dias/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ana%20Luisa%20Dias-blue?style=flat&logo=linkedin"></a> [![Instagram Badge](https://img.shields.io/badge/-anabaiana__-purple?&logo=instagram&logoColor=white&link=[https://www.instagram.com/anabaiana_/](https://www.instagram.com/anabaiana_/))](https://instagram.com/anabaiana_)
+</h3>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=.Net%20-%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
 
 Welcome to my Github! I make some fun codes to learn new things and help other people learn it too (especially from my mistakes :sweat_smile:).
 
