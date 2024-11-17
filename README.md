@@ -1,19 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header)
+![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
 
-<h3 align="center">
-Hi There! I'm Ghada Ragab
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-<h3 align="center">
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Edu+NSW+ACT+Foundation&weight=500&size=30&pause=1000&color=F70404&width=435&lines=Flutter+Developer;Mobile+Developer)](https://git.io/typing-svg)
-
-</h3>
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer;Mobile%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p>
+[![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/sudo_overflow) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/CyrisXD?logo=GitHub&style=for-the-badge)](https://github.com/CyrisXD) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/CyrisXD?logo=github&style=for-the-badge)](https://github.com/CyrisXD) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/CyrisXD?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/CyrisXD)
 
 
 Welcome to my Github! I make some fun codes to learn new things and help other people learn it too (especially from my mistakes :sweat_smile:).
